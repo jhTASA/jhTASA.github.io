@@ -17,6 +17,12 @@ header:
             url: /fam/
     excerpt: "Sharing a bit of Taiwanese culture"
 ---
+<style>
+  body {
+    background-color: #"#FDF2DA"; 
+  }
+</style>
+
 We are the **Taiwanese American Student Association at Johns Hopkins University (TASA)**!  
 Our mission is to promote Taiwanese culture, community, and connection among students.
 On this site, you will find more information about our events and members!
